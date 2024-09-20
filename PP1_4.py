@@ -31,9 +31,8 @@ def q4():
 
 #Do not edit code below this comment
 
-'''
+
 q1()
 q2()
 q3()
 q4()
-'''

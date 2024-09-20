@@ -20,7 +20,7 @@ def q3():
   #Write Assignment code here
   first = input("your first name:")
   last = input("your last name :")
-  print(last  + first)
+  print(last + first)
 
 def q4():
   #Write Assignment code here
@@ -28,9 +28,12 @@ def q4():
   studentTwo = input("another students name:")
   students = f"Your students are {studentOne} and {studentTwo}"
   print(students)
+
 #Do not edit code below this comment
 
+'''
 q1()
 q2()
 q3()
 q4()
+'''
